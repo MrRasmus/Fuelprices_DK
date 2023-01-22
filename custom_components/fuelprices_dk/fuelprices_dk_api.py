@@ -75,9 +75,9 @@ FUEL_COMPANIES = {
         "name": "Q8",
         "url": "https://www.q8.dk/-/api/PriceViewProduct/GetPriceViewProducts",
         "products": {
-            OCTANE_95: {"name": "GoEasy 95 E10", "ProductCode": 22251},
+            OCTANE_95: {"name": "GoEasy 95 E10", "ProductCode": 22351},
             OCTANE_95_PLUS: {"name": "GoEasy 95 Extra E5", "ProductCode": 22601},
-            DIESEL: {"name": "GoEasy Diesel", "ProductCode": 24451},
+            DIESEL: {"name": "GoEasy Diesel", "ProductCode": 24450},
             DIESEL_PLUS: {"name": "GoEasy Diesel Extra", "ProductCode": 24337},
         },
     },
